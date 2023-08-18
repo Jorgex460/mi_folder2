@@ -1,0 +1,38 @@
+<Inicio>
+
+Paso 1: Creación del Repositorio en GitHub
+   - Iniciar un repositorio en GitHub para el proyecto de software
+   - Clonar el repositorio en las estaciones de trabajo locales utilizando Git
+
+Paso 2: Desarrollo Individual
+   - Cada desarrollador trabaja en una rama separada para implementar nuevas funciones o correcciones
+   - Hacer commits de manera regular para registrar los cambios efectuados en el código
+   - Mantener la rama principal (por ejemplo, "main" o "master") como la versión actual
+
+Paso 3: Resolución Colaborativa
+   - Antes de fusionar una rama con la principal, verificar y abordar posibles conflictos
+   - Realizar pruebas exhaustivas para asegurar la estabilidad del nuevo código
+
+Paso 4: Pull Requests (Solicitudes de Fusión)
+   - Al completar una característica, crear un pull request en GitHub
+   - Los desarrolladores revisan el código, ofrecen comentarios y llevan a cabo pruebas
+   - Se realizan ajustes en el código según las retroalimentaciones recibidas
+
+Paso 5: Pruebas de Integración
+   - Después de la fusión, realizar pruebas de integración exhaustivas para asegurar que todas las partes del software funcionen correctamente juntas
+   - Identificar posibles problemas de interacción entre las nuevas características y el código existente
+
+Paso 6: Fusión de Pull Requests
+   - Una vez que el pull request ha sido aprobado y las revisiones se han efectuado, realizar la fusión con la rama principal
+   - Esto integra las nuevas funcionalidades o correcciones a la versión principal del proyecto
+
+Paso 7: Etiquetado de Versiones
+   - Tras unir cambios significativos, crear una etiqueta para identificar una nueva versión del software
+   - Facilita la identificación de versiones en el historial y permite volver a versiones anteriores si es necesario
+
+Paso 8: Mantenimiento Continuo
+   - Continuar supervisando y administrando el repositorio para futuras correcciones y mejoras
+   - Repetir el proceso para desarrollar y añadir nuevas características
+
+<Fin>
+

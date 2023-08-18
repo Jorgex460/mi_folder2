@@ -1,0 +1,33 @@
+<Inicio>
+
+Paso 1: Inicialización del Repositorio en GitHub
+   - Crear un repositorio en GitHub para el proyecto de software
+   - Clonar el repositorio en las máquinas locales de los desarrolladores utilizando Git
+
+Paso 2: Desarrollo Individual
+   - Cada desarrollador trabaja en una rama separada para implementar nuevas características o correcciones de errores
+   - Utilizar commits frecuentes para registrar los cambios realizados en el código
+   - Mantener la rama principal (por ejemplo, "main" o "master") como la versión funcional actual
+
+Paso 3: Resolución de Conflictos
+   - Antes de fusionar una rama con la principal, verificar y resolver posibles conflictos
+   - Realizar pruebas para asegurarse de que las nuevas implementaciones no afecten negativamente al código existente
+
+Paso 4: Pull Requests (Solicitudes de Fusión)
+   - Cuando una característica está lista, un desarrollador crea un pull request en GitHub
+   - Los miembros del equipo revisan el código, realizan comentarios y verifican las pruebas
+   - Se pueden hacer ajustes en el código según las revisiones
+
+Paso 5: Fusión de Pull Request
+   - Una vez que el pull request ha sido aprobado y todas las revisiones se han realizado, fusionar la rama con la principal
+   - Esto integra las nuevas características o correcciones en la versión principal del proyecto
+
+Paso 6: Etiquetado de Versiones
+   - Después de fusionar cambios significativos, crear una etiqueta para marcar una nueva versión del software
+   - Esto permite identificar fácilmente las versiones en el historial y volver a versiones anteriores si es necesario
+
+Paso 7: Mantenimiento Continuo
+   - Continuar monitoreando y gestionando el repositorio para futuras correcciones y mejoras
+   - Repetir los pasos anteriores para desarrollar y agregar nuevas características
+
+<Fin>
